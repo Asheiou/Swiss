@@ -215,7 +215,7 @@ Please provide a value to select one of the search results ranging from 1-10.
 		const embed = new RichEmbed()
 			.setTitle('Info!')
 			.addField('Servers', client.guilds.size)
-			.setDescription('I am a bot made to help manage the SmoreSoftware Discord server!');
+			.setDescription('I am a bot made to help manage the SmoreSoftware and Skyenet servers!');
 		msg.channel.send({ embed: embed });
 		return undefined;
 	} else if (msg.content.startsWith(`${PREFIX}help`)) {
