@@ -11,7 +11,7 @@
     "bot",
     "discordbot"
   ],
-  "author": "iCrawl",
+  "author": "SmoreSoftware, originally by iCrawl",
   "license": "MIT",
   "dependencies": {
     "discord.js": "^11.1.0",
