@@ -7,3 +7,4 @@ logs/
 
 # Miscellaneous
 .vscode/
+config.js
