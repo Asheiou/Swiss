@@ -1,8 +1,8 @@
 {
-  "name": "yumeko",
-  "version": "0.1.0",
-  "description": "A simple discord bot",
-  "main": "MusicBot.js",
+  "name": "swiss",
+  "version": "1.0.0",
+  "description": "I am a bot made to help manage the SmoreSoftware and Skyenet servers!",
+  "main": "bot.js",
   "scripts": {
     "test": ""
   },
